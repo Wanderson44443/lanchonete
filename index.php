@@ -11,7 +11,9 @@
 <body>
     <h1>SGLanchonete</h1>
     <a href="#"class="botao1">Cadastro de Produtos </a>
+    
     <a href="#"class="botao2">Cadastro de Pedidos</a>
-   
+   <input type="text">
+   <button>Cadastra</button>
 </body>
 </html>
