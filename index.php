@@ -10,10 +10,10 @@
 </head>
 <body>
     <h1>SGLanchonete</h1>
-    <a href="#"class="botao1">Cadastro de Produtos </a>
+    <a href="telaproduto.php"class="botao1">Cadastro de Produtos </a>
     
-    <a href="#"class="botao2">Cadastro de Pedidos</a>
-   <input type="text">
-   <button>Cadastra</button>
+    <a href="telapedidos.php"class="botao2">Cadastro de Pedidos</a>
+    <a href="listaprodutos.php"class="botao2">lista produtos</a>
+   
 </body>
 </html>
